@@ -17,7 +17,7 @@ Console.WriteLine($"{num2} > {num1}");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input number 2");
 int num2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input number ");
+Console.WriteLine("Input number 3");
 int num3 = Convert.ToInt32(Console.ReadLine());
 int max = num1;
 if (num2 > max) max = num2;
