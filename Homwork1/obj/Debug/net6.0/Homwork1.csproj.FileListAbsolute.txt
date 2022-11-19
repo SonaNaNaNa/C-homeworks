@@ -1,0 +1,15 @@
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.csproj.AssemblyReference.cache
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.AssemblyInfo.cs
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\csharp\homework\Homwork1\bin\Debug\net6.0\Homwork1.exe
+C:\Users\konst\Desktop\csharp\homework\Homwork1\bin\Debug\net6.0\Homwork1.deps.json
+C:\Users\konst\Desktop\csharp\homework\Homwork1\bin\Debug\net6.0\Homwork1.runtimeconfig.json
+C:\Users\konst\Desktop\csharp\homework\Homwork1\bin\Debug\net6.0\Homwork1.dll
+C:\Users\konst\Desktop\csharp\homework\Homwork1\bin\Debug\net6.0\Homwork1.pdb
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.dll
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\refint\Homwork1.dll
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.pdb
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\Homwork1.genruntimeconfig.cache
+C:\Users\konst\Desktop\csharp\homework\Homwork1\obj\Debug\net6.0\ref\Homwork1.dll
