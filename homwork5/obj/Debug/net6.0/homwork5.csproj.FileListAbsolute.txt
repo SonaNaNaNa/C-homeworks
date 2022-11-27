@@ -1,0 +1,15 @@
+C:\Users\konst\Desktop\csharp\homework\homwork5\bin\Debug\net6.0\homwork5.exe
+C:\Users\konst\Desktop\csharp\homework\homwork5\bin\Debug\net6.0\homwork5.deps.json
+C:\Users\konst\Desktop\csharp\homework\homwork5\bin\Debug\net6.0\homwork5.runtimeconfig.json
+C:\Users\konst\Desktop\csharp\homework\homwork5\bin\Debug\net6.0\homwork5.dll
+C:\Users\konst\Desktop\csharp\homework\homwork5\bin\Debug\net6.0\homwork5.pdb
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.csproj.AssemblyReference.cache
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.AssemblyInfo.cs
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.dll
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\refint\homwork5.dll
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.pdb
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\homwork5.genruntimeconfig.cache
+C:\Users\konst\Desktop\csharp\homework\homwork5\obj\Debug\net6.0\ref\homwork5.dll
